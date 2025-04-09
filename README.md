@@ -65,6 +65,6 @@ portfolio/
 
 ## 📫 Контакты
 
-- Email: [your.email@example.com](mailto:timasuper05@yandex.ru)
-- GitHub: [your-username](https://github.com/Timasuper05)
-- Telegram: [your-profile]([https://t.me/magma1sa])
+- Email: [timasuper05@yandex.ru](mailto:timasuper05@yandex.ru)
+- GitHub: [Timasuper05](https://github.com/Timasuper05)
+- Telegram: [Magnus M]([https://t.me/magma1sa])
